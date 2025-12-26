@@ -118,4 +118,3 @@ License
 
 MIT
 
-The GitHub README section has been created and fully populated with overview, features, setup instructions, deployment steps, repo structure, contributing guidelines, and license information. It’s ready to include in your repository.
